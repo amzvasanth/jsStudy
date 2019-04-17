@@ -21,3 +21,4 @@ let multiply = function (a, b){
 }
 let c = multiply(5,2)
 console.log(c);
+console.log("hi this is vasanth");
