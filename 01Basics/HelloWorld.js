@@ -1,3 +1,6 @@
+console.log('changes done in master');
+
+
 console.log('Hello World!');
 console.log('Hello GIT');
 
